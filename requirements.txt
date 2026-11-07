@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+imapclient
+pydantic
+python-multipart
+openpyxl
+markdown
+nh3

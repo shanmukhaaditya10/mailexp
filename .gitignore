@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+xls/
+data/*.db
+data/resume.pdf
+node_modules/
+web/dist/
+.DS_Store
+
+research_notes/
+.idea/
+.pytest_cache/
